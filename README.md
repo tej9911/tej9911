@@ -28,10 +28,9 @@ Hi there! 👋 I'm an undergraduate student with a passion for coding and proble
    - **Tech**: Python, HTML, CSS  
    - **Description**: This system allows users to book bus tickets online. It features an easy-to-use interface built with **HTML** and **CSS**, with the backend powered by **Python** to manage seat reservations, payment processing, and booking history. It ensures a smooth and secure experience for users while allowing administrators to manage routes and schedules.  
 
-### 5. **Diabetic Retinopathy**  
-   - **Tech**: Python, HTML, CSS, JavaScript  
-   - **Description**: This project leverages advanced **image processing** and **machine learning** techniques to analyze retinal images. It predicts whether a patient has diabetes and, if detected, provides tailored **prescriptions and recommendations**. The backend uses **Python** for processing and analysis, while the frontend is built with **HTML**, **CSS**, and **JavaScript** for a seamless user experience.  
-
+### 5. **Heart Disease Prediction System**  
+   - **Tech**: Python, Keras, Logistic Regression, Streamlit
+   - **Description**: Developed a machine learning model that predicts the presence of heart disease using various health metrics, such as age, cholesterol levels, blood pressure, and more. The system incorporates advanced feature analysis and severity assessment to provide actionable insights. The model is deployed through a Streamlit web app, offering a user-friendly interface for data input and real-time predictions. It also visualizes feature importance and evaluates the risk of heart disease, helping both patients and healthcare professionals make informed decisions.
 ## 📫 How to Reach Me  
 
 - **Email**: ptejaswi9911@gmail.com  
