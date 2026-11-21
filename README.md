@@ -1,46 +1,58 @@
-# Welcome to My GitHub Profile!  
+# Hi, I'm Tejaswi 👋
 
-Hi there! 👋 I'm an undergraduate student with a passion for coding and problem-solving. I specialize in **C**, **C++**, **Java**, and **Python**. I have a strong foundation in **Data Structures and Algorithms (DSA)** and **Object-Oriented Programming (OOP)**. Below you'll find some highlights of my skills and projects.  
+Final-year B.Tech CSE (Data Science) student at **SRM Institute of Science and Technology**, Chennai (2027). I build **agentic AI systems** that take over real, repetitive work, and I like digging into how they work under the hood.
 
-## Skills  
-
-- **Languages**: C, C++, Java, Python  
-- **Technologies**: Git, HTML, CSS, JavaScript, VS Code  
-- **Data Structures & Algorithms**: Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, and more!  
-- **Object-Oriented Programming**: Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction  
-- **Development Tools**: Jupyter, Colab  
-
-## Projects  
-
-### 1. **Patient Data Healthcare Analysis**  
-   - **Tech**: Python, Keras  
-   - **Description**: This project focuses on analyzing patient healthcare data using machine learning techniques. It uses a **Keras model** for predictive analysis, helping to identify patterns and predict patient conditions based on historical data. The project involves data cleaning, feature engineering, and model evaluation to ensure accurate predictions.  
-
-### 2. **Diabetic Retinopathy Prediction**  
-   - **Tech**: Python, JavaScript, HTML, CSS  
-   - **Description**: A cutting-edge web application designed to predict **diabetic retinopathy** by analyzing retinal images. The backend is powered by **Python**, incorporating advanced machine learning models, while the frontend, built with **HTML**, **CSS**, and **JavaScript**, offers an intuitive interface. The system not only predicts the presence of diabetes but also provides **personalized prescriptions** to assist in patient care.  
-
-### 3. **Password Generator and Strength Checker**  
-   - **Tech**: JDBC  
-   - **Description**: This project involves creating a **password generator** with varying levels of strength and checking password security against common vulnerabilities. Built using **JDBC**, it connects to a database to store password policies, check for common patterns, and provide feedback on how to improve password strength.  
-
-### 4. **Bus Ticket Booking System**  
-   - **Tech**: Python, HTML, CSS  
-   - **Description**: This system allows users to book bus tickets online. It features an easy-to-use interface built with **HTML** and **CSS**, with the backend powered by **Python** to manage seat reservations, payment processing, and booking history. It ensures a smooth and secure experience for users while allowing administrators to manage routes and schedules.  
-
-### 5. **Heart Disease Prediction System**  
-   - **Tech**: Python, Keras, Logistic Regression, Streamlit
-   - **Description**: Developed a machine learning model that predicts the presence of heart disease using various health metrics, such as age, cholesterol levels, blood pressure, and more. The system incorporates advanced feature analysis and severity assessment to provide actionable insights. The model is deployed through a Streamlit web app, offering a user-friendly interface for data input and real-time predictions. It also visualizes feature importance and evaluates the risk of heart disease, helping both patients and healthcare professionals make informed decisions.
-## 📫 How to Reach Me  
-
-- **Email**: ptejaswi9911@gmail.com  
-- **LinkedIn**: [Tejaswi Ponukupati](www.linkedin.com/in/tejaswi-ponukupati-96a8a1271)  
-- **Portfolio**: [Your Portfolio](https://your-portfolio-link.com)  
-
-## 🤝 Let's Connect  
-
-Feel free to check out my repositories, contribute to projects, or get in touch with me for collaborations!  
+- 🤖 Built a **four-agent AI pipeline** during my internship at **Fiserv** that automated a team's manual performance analysis: **~65% less manual effort, ~175 hours saved a year**
+- 📄 Co-authored a deep-learning research paper accepted at **PCCDA 2026**
+- ☁️ **AWS Certified AI Practitioner** · **MongoDB Associate Database Administrator**
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad."  
+## 🛠️ Tech I work with
+
+| Area | Tools |
+|---|---|
+| **GenAI / Agents** | Claude API & Agent SDK, multi-agent orchestration, context engineering, prompt design |
+| **ML / DL** | Python, EfficientNet, attention models, CatBoost, ensembles, SMOTE |
+| **Backend & Data** | FastAPI, Flask, MongoDB, MySQL, PL/SQL |
+| **Frontend** | React, HTML, CSS, JavaScript |
+| **Cloud & Tools** | AWS, Docker, Git, GitHub Actions, Jupyter, Colab |
+| **Languages** | Python, Java, C, C++, SQL |
+
+---
+
+## 🚀 Featured projects
+
+### 🌱 MT-AHNet: Weed detection in soybean crops
+A multi-task deep-learning model (segmentation + classification) built on EfficientNetB0 with channel and spatial attention, trained on 15,336 field images.
+- **95.63% mIoU** and **99.21% accuracy**, beating 6 state-of-the-art baselines
+- Served through a Flask inference API with health checks, Docker and regression tests
+- Research paper accepted at **PCCDA 2026**
+
+### 📡 Signals Under Stress: Indian telecom analytics platform
+20 years of data on Jio, Airtel, Vi and BSNL, covering **1.17 billion subscriber records**: growth, market share, ARPU and the fall in data prices from ₹250/GB to ₹10/GB.
+- FastAPI backend with 9 REST endpoints, MongoDB, and **5 live React dashboards**
+
+### ❤️ Cardiovascular disease prediction
+End-to-end risk model on 5,000 patient records, with EDA, hypothesis testing, SMOTE and 5-fold cross-validation.
+- Compared 6 models: **CatBoost 0.997 AUC**, stacking ensemble **94.2% accuracy**
+- Lifted minority-class recall from ~61% to ~78%; output as 3 risk tiers
+
+### 🏠 EstateEase: Real-estate management system
+A normalized MySQL database for properties, agents, clients and payments, with triggers, views, stored procedures and cursors, plus a web front end for search and booking.
+
+---
+
+## 📊 GitHub stats
+
+![Tejaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tej9911&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=tej9911&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Reach me
+
+- **Email:** ptejaswi9911@gmail.com
+- **LinkedIn:** [linkedin.com/in/tejaswi28092005](https://www.linkedin.com/in/tejaswi28092005)
+
+Open to **AI Engineer, GenAI / Agentic AI Developer, ML Engineer and Data Science** roles for 2027.
